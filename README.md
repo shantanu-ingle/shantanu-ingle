@@ -3,7 +3,7 @@
 I'm a calm and consistent Computer Science student from Nagpur, passionate about **Machine Learning**, **Deep Learning**, and building smart applications that solve real problems.
 
 ---
-<p align="center">
+<p align="center" width="500">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Shantanu+Ingle;ML+%7C+AI+%7C+MERN+Stack+Dev;Student+%7C+Problem+Solver+%7C+Tech+Lover" alt="Typing SVG" />
 </p>
 
