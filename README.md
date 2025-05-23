@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**shantanu-ingle/shantanu-ingle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋, I'm Shantanu
 
-Here are some ideas to get you started:
+I'm an engineering student learning computer science!  
+I love coding, solving problems, and building cool stuff with Python and C++.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+- 💻 Languages: Python, C++, Java
+- 🌐 Web: HTML, CSS, JavaScript
+- 🛠️ Tools: Git, VS Code
+
+## 📈 GitHub Stats
+![Shantanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=shantanu123&show_icons=true&theme=tokyonight)
+
+## 📫 How to reach me
+- Email: youremail@example.com
+- LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)
