@@ -11,7 +11,7 @@ I love coding, solving problems, and building cool stuff with Python and C++.
 - 🛠️ Tools: Git, VS Code
 
 ## 📈 GitHub Stats
-![Shantanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=shantanu123&show_icons=true&theme=tokyonight)
+![Shantanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=shantanu-ingle&show_icons=true&theme=tokyonight)
 
 ## 📫 How to reach me
 - Email: youremail@example.com
