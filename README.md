@@ -12,22 +12,37 @@ I'm a calm and consistent Computer Science student from Nagpur, passionate about
 </p>
 
 ---
+
 ## 🚀 Technical Skills
 
-**Languages:**  
-Java, Python, C, C++, SQL
+### 🧠 Languages
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2300C7B7.svg?style=flat-square&logo=sqlite&logoColor=white)
 
-**Core Skills:**  
-Data Structures & Algorithms (DSA), Object-Oriented Programming (OOPs)
+### 💡 Core Skills
+![DSA](https://img.shields.io/badge/Data_Structures-006400?style=flat-square&logo=codeforces&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-%239FA8DA.svg?style=flat-square&logo=oop&logoColor=white)
 
-**Development:**  
-Web Development (MERN Stack), Blockchain  
+### 🌐 Web Development (MERN)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=flat-square&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white)
 
-**Machine Learning:**  
-TensorFlow, PyTorch, scikit-learn
+### 🤖 Machine Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
 
-**Cloud & Tools:**  
-AWS, MongoDB, Flask, React, Git, GitHub
+### ☁️ Cloud & Tools
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=flat-square&logo=flask&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 
 ---
 
@@ -40,7 +55,6 @@ Shri Ramdeobaba College of Engineering & Management, Nagpur
 📅 2022 – 2026
 
 ---
-
 
 ## 📈 GitHub Stats
 
