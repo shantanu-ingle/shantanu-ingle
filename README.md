@@ -66,10 +66,8 @@ Shri Ramdeobaba College of Engineering & Management, Nagpur
 ## 📫 Connect With Me
 
 - 📧 Email: [shantanuingle2004@gmail.com](mailto:shantanuingle2004@gmail.com)  
-- 📱 Phone: +91 9503776407  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/shantanu-ingle-b161a4288/)  
 - 🌐 [Portfolio Website](https://shantanu-portfolio-shantanu-ingles-projects.vercel.app/)  
-- 💻 [GitHub](https://github.com/shantanu-ingle)
 
 ---
 
