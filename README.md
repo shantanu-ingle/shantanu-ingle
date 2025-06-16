@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Shantanu Ingle!
 
-I'm a calm and consistent Computer Science student from Nagpur, passionate about **Machine Learning**, **Deep Learning**, and building smart applications that solve real problems.
+I'm a consistent and driven Computer Science student from Nagpur, passionate about **Machine Learning**, **Deep Learning**, and building smart applications that solve real problems.
 
 ---
 <p align="center" width="500">
