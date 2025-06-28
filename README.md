@@ -50,7 +50,6 @@ I'm a consistent and driven Computer Science student from Nagpur, passionate abo
 
 🎓 **B.Tech in Computer Science and Engineering**  
 Shri Ramdeobaba College of Engineering & Management, Nagpur  
-**CGPA:** 9.34 / 10  
 📜 Honors Degree in Web Development  
 📅 2022 – 2026
 
