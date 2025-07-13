@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Shantanu Ingle!
+# 👋Hi there, I'm Shantanu Ingle!
 
 Consistent and driven Computer Science and Engineering student with a solid foundation in Data Structures and Algorithms and hands-on experience in Full Stack Development using the MERN stack and React. Passionate about Machine Learning and always eager to apply concepts to real-world problems. Known for delivering reliable, high-quality work both in teams and independently. Calm under pressure, highly punctual, and focused on continuous improvement. Strong belief in discipline and consistency as the foundation for long-term success in tech.
 
